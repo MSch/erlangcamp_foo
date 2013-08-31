@@ -1,2 +1,4 @@
 /ebin
 *.beam
+*.boot
+*.script

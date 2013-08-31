@@ -1,4 +1,0 @@
-{release,
-  {“<release-name>”, “<release-version>”},
-  {erts, “<erts-version>”},
-  [{<app-name>, “<app-version>”}]}.
